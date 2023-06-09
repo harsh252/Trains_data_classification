@@ -1,0 +1,11 @@
+no_of_cars,no_of_different_load,no_of_wheels,length,shape,num_loads,load_shape,class
+5,4,2,long,openrect,3,rectanglod,east
+4,3,2,short,ushaped,1,trianglod,east
+4,2,2,short,openrect,1,circlelod,east
+5,2,2,short,opentrap,1,trianglod,east
+4,3,2,short,dblopnrect,1,trianglod,east
+3,2,2,long,closedrect,3,circlelod,west
+4,2,2,short,dblopnrect,1,circlelod,west
+3,2,3,long,closedrect,1,rectanglod,west
+5,2,2,short,opentrap,1,circlelod,west
+3,1,2,short,ushaped,1,rectanglod,west
